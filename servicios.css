@@ -1,0 +1,27 @@
+header {
+    background-color: rgb(248, 181, 181);
+    width: 100%;
+    flex-direction: wrap;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+
+
+}
+
+.class-container{
+    background-color: #fa9d9d;
+    width: 100%;
+    display: flex;
+    justify-content: center
+}
+
+.audio{
+    background-color: #fa9d9d;
+    width: 80%;
+    display: flexbox;
+   margin-right: 30px; 
+     
+  
+}
+
